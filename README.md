@@ -17,7 +17,7 @@
 - Date - 2019 - 12 / 19
   - Doing
     -use python and crolling naver word to db
-- - - 
+```
 import pymysql
 from selenium import webdriver
 import time
@@ -51,4 +51,4 @@ for i in range(0,2000):
 print(rows)
 conn.close()
 
-- - - 
+```
